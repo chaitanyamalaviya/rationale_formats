@@ -1,7 +1,7 @@
-# <img src="images/patch.png" alt="drawing" width="25"/> Pachinko: Patching Interpretable QA Models through Natural Language Feedback
+# _What if you said that differently?_: How Explanation Formats Affect Human Feedback Efficacy and User Perception
 
 # Paper
-Find the paper at [https://chaitanyamalaviya.github.io/data/pachinko.pdf](https://chaitanyamalaviya.github.io/data/pachinko.pdf)
+Find the paper at [https://chaitanyamalaviya.github.io/data/rationale_formats.pdf](https://chaitanyamalaviya.github.io/data/rationale_formats.pdf)
 
 # Data
 
